@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Chandan,
 
-I am a 2024 batch graduate. I completed my B. Tech from IES College of Technology, Bhopal.
+I am a 2024 batch graduate. I completed my B.Tech from IES College of Technology, Bhopal.
 I am passionate about technology, innovation, and problem-solving. My academic journey has equipped me with strong technical skills and a growth-oriented mindset.
 
 I enjoy tackling challenges, learning new concepts, and collaborating with others to find effective solutions. I’m always open to discussions on problem-solving, technology, and beyond. Let’s connect and share ideas!
