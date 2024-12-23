@@ -19,7 +19,7 @@
 
 ## 🌐 **Socials**:
 <div align="center">
-  <a href="[https://facebook.com/ChandanVatsa](https://www.facebook.com/share/1FMZcYRWoP/)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
+  <a href="(https://www.facebook.com/s.dhoni.31586?rdid=Ec9w0Va9gpfpNPxM#)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/chandanvatsa393" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://linkedin.com/in/ChandanKumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://medium.com/@chandanvatsa321" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
