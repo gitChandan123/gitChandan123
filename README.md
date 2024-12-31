@@ -8,10 +8,10 @@
 
 ## 💫 **About Me**:
 
-- 🎓 **2024 Graduate**, B.Tech from **IES College of Technology**, Bhopal.  
-- 💡 Passionate about **Technology**, **Innovation**, and **Problem-Solving**.  
-- 🛠️ Equipped with strong technical skills and a **growth-oriented mindset**.  
-- 🤝 Enjoy collaborating, learning, and tackling challenges head-on.  
+-  **2024 Graduate**, B.Tech from **IES College of Technology**, Bhopal.  
+-  Passionate about **Technology**, **Innovation**, and **Problem-Solving**.  
+-  Equipped with strong technical skills and a **growth-oriented mindset**.  
+-  Enjoy collaborating, learning, and tackling challenges head-on.  
 
 🔗 **Let's connect** and share ideas to innovate and grow together! 🌟
 
