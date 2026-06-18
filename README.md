@@ -30,7 +30,7 @@
       </td>
       <td width="80%">
         <b>Software Engineer</b><br>
-        <i>[Your Start Month, e.g., Jan] 2025 – Present (1+ Years)</i><br>
+        <i>June 2025 – Present (1+ Years)</i><br>
         🚀 Actively contributing to the software development lifecycle, building scalable solutions, and collaborating with cross-functional teams to solve complex technical challenges.
       </td>
     </tr>
